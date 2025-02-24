@@ -41,7 +41,7 @@ A bunch of material for a brief introduction in Machine Learning and techniques
 
   - Digit Recognizer (kaggle) [https://www.kaggle.com/competitions/digit-recognizer]
 
-      /K-Nearest Neighboors Classifier
+      / K-Nearest Neighboors Classifier
     
       / A Simple Tensorflow CNN
     
@@ -52,12 +52,19 @@ A bunch of material for a brief introduction in Machine Learning and techniques
 /Exercises-Workshops
 -
 - House Prices|Advanced Regression Techniques (kaggle)
+
+    / Handling and Cleaning Dataset
+
+    / Feature Engineering
   
-  /Handling and Cleaning Dataset
-  
-  / Feature Engineering
-  
-  / Model Selection
+    / Model Selection
   
   Workshop: [https://www.kaggle.com/code/georgeballos/ieee-ntua-sb-ml-team-house-prices-workshop/]
     
+- Sign Language Dataset (kaggle) []
+  
+    / Leraning to work with Image Data
+
+    / Building a simple CNN architecture from scratch
+
+  Workshop: [https://www.kaggle.com/code/georgeballos/workshop-sign-language-ntua-ml]
