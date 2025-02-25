@@ -21,19 +21,19 @@ A bunch of material for a brief introduction in Machine Learning and techniques
 
 - GANs(Generative Adversarial Networks)
 
-- Reinforcemnt Learning and Q-Learning
+- Reinforcment Learning and Q-Learning
 
 /Code Examples
 -
   - Titanic|Machine Learning from Disaster (kaggle) [https://www.kaggle.com/competitions/titanic]
 
-    *intro* [https://www.kaggle.com/code/marlenatpanagiotakou/ieee-ntua-sb-ml-team-titanic-data-processing]
+    *intro* Notebook: [https://www.kaggle.com/code/marlenatpanagiotakou/ieee-ntua-sb-ml-team-titanic-data-processing]
   
     / Handling, cleaning, and preparing data
   
     / Selecting and engineering features
   
-    *tuning* [https://www.kaggle.com/code/marlenatpanagiotakou/ieee-ntua-sb-ml-team-titanic-with-tuning]
+    *tuning*  Notebook: [https://www.kaggle.com/code/marlenatpanagiotakou/ieee-ntua-sb-ml-team-titanic-with-tuning]
   
   - House Prices|Advanced Regression Techniques (kaggle)
    
@@ -46,6 +46,14 @@ A bunch of material for a brief introduction in Machine Learning and techniques
       / A Simple Tensorflow CNN
     
       Notebook: [https://www.kaggle.com/code/georgeballos/ieee-ntua-sb-ml-team-digit-recognizer]
+
+  - Reinforcent Learning - CartPole Problem
+
+      / Q-Learning with Deep Q Networks(DQN)
+
+      / Reward Function
+
+      Notebook: [https://colab.research.google.com/drive/1CQwBH8_b2YhhR665JYrTNnJa58-jgjR7?usp=sharing] 
 
 
   
@@ -61,7 +69,7 @@ A bunch of material for a brief introduction in Machine Learning and techniques
   
   Workshop: [https://www.kaggle.com/code/georgeballos/ieee-ntua-sb-ml-team-house-prices-workshop/]
     
-- Sign Language Dataset (kaggle) []
+- Sign Language Dataset (kaggle) [https://www.kaggle.com/datasets/datamunge/sign-language-mnist]
   
     / Leraning to work with Image Data
 
